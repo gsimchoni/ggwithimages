@@ -75,4 +75,4 @@ ggplot(nyc_accidents, aes(n_accidents)) +
 
 ![](README-NYC-1.png)
 
-See more in [this](TODO) blog post.
+See more in [this](http://giorasimchoni.com/2018/01/03/2018-01-03-congratulations-it-s-a-geom/) blog post.
