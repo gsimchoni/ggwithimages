@@ -1,0 +1,14 @@
+Package: ggwithimages
+Title: Geoms for ggplot2-style drawing of basic plots using images
+Version: 0.0.0.9000
+Authors@R: person("Giora", "Simchoni", email = "gsimchoni@gmail.com", role = c("aut", "cre"))
+Description: This package allows you to plot basic plots (currently lines and histograms)
+		using images
+Depends: R (>= 3.4.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: ggplot2,
+		tidyr,
+		sp
+RoxygenNote: 6.0.1
