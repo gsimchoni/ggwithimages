@@ -4,11 +4,6 @@ ggwithimages - Drawing Basic Plots with Images
 
 This package allows you to plot basic plots (currently lines and histograms) using images. You kinda have to see it to get it...
 
-Example
--------
-
-This is a basic example which shows you how to solve a common problem:
-
 Install:
 
 ``` r
